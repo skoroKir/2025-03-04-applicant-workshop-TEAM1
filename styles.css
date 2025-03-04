@@ -1,6 +1,7 @@
 :root {
+    background-color: #aeaeae;
     --primary-color: #4CAF50;
-    --secondary-color: #f4f4f4;
+    --secondary-color: #ffffff;
     --font-family: Arial, sans-serif;
     --text-color: #333;
     --border-radius: 5px;
